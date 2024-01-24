@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAIC,aAGC,eAAgB,CAChB,WAAY","file":"main.3ea2b72a.chunk.css","sourcesContent":["// style go here\r\ninput {\r\n  margin-left: 5px;\r\n  width: 120px;\r\n}\r\n\r\nbutton {\r\n  margin-left: 5px;\r\n  width: 120px;\r\n}\r\n"]}
